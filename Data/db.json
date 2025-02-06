@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted ",
+      "author": "mario",
+      "id": "1"
+    },
+    {
+      "title": "Opening Party",
+      "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted ",
+      "author": "yoshi",
+      "id": "2"
+    },
+    {
+      "id": "052e",
+      "title": "Myblogs01",
+      "body": "\"Something in the Way She Moves\" is a song written by James Taylor that appeared on his 1968 debut album for Apple Records, James Taylor. It has also been covered by other artists, including Tom Rush and Harry Belafonte. The opening line inspired George Harrison to write the No. 1 Beatles' song \"Something\".",
+      "author": "mario"
+    }
+  ]
+}
